@@ -6,4 +6,6 @@ theme:
 
 nav:
   - Головна: 'index.md'
+  - Внесення різниці курсів: 'routine/exchange_rate_difference.md'
   - Віртальне бюро: 'routine/virtual_buro.md'
+  - Податки JDG: 'routine/taxes.md'
