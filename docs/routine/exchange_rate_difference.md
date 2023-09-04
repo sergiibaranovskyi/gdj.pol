@@ -1,4 +1,4 @@
-title: Курсова різниця. 
+title: Реєстрація курсової різниці
 
 # Для чого
 
@@ -12,12 +12,12 @@ title: Курсова різниця.
 <a>![alt різниця](../img/exchange_rate_difference/difference.jpg) </a>
 
 ## Внесення різниці
-Для внесення різниці треба додати 'Dowód wewnętrzny' в infakt
+Для внесення різниці треба додати `Dowód wewnętrzny`` в infakt
 
-1. Przychody -> Przegląd -> бургер-кнопка -> Dowód wewnętrzny
+1. `Przychody` -> `Przegląd` -> бургер-кнопка -> `Dowód wewnętrzny`
 <a>![alt введення різниці](../img/exchange_rate_difference/enter_dowod.jpg) </a>
 2. Далі вибираємо Kategoria: `Pozostałe przychody`
-3. Вводимо Nazwa towaru lub usługi: 'dodatnia różnica kursowa' (після продажу валюти ви в плюсі) чи 'ujemna różnica kursowa' (після продажу валюти ви в мінусі)
+3. Вводимо Nazwa towaru lub usługi: `dodatnia różnica kursowa` (після продажу валюти ви в плюсі) чи `ujemna różnica kursowa` (після продажу валюти ви в мінусі)
 4. Суму, з мінусом, якщо після продажу валюти ви в мінусі
 5. Ставка податку (12%, в моєму випадку)
 6. (опційно) деталі по курсам, в форматі: 
