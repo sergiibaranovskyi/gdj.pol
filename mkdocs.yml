@@ -1,0 +1,9 @@
+site_name: JDG рутина
+plugins:
+  - glightbox
+theme:
+  name: material
+
+nav:
+  - Головна: 'index.md'
+  - Віртальне бюро: 'routine/virtual_buro.md'
