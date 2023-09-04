@@ -31,4 +31,4 @@ title: Подача декларації ZUS
 12. Перейти в до вкладки `Dokumenty zatwierdzone`
 13. Тиснемо `Wyślij`
 <a>![alt confirmed docs](../img/zus_dra/zus_confirmed_docs.jpg) </a>
-14. Підписуємо ePUAP (довірчий профіль). Чогось зараз не спрацював, спробую вислати завтра
+14. Підписуємо ePUAP (довірчий профіль)
