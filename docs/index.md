@@ -17,9 +17,9 @@
 ## Що тут буде описано
 
 * Виставлення інвойсів
-* [Курсова різниця](/routine/exchange_rate_difference)
-* [Оплата податків](/routine/tax)
-* [Оплата ZUS](/routine/zus)
-* [Відправлення звітів в ZUS](/routine/zus_dra)
-* [Відправлення звіту VAT](/routine/vat)
-* [Оплата віртуального бюро](/routine/virtual_buro)
+* [Курсова різниця](routine/exchange_rate_difference)
+* [Оплата податків](routine/tax)
+* [Оплата ZUS](routine/zus)
+* [Відправлення звітів в ZUS](routine/zus_dra)
+* [Відправлення звіту VAT](routine/vat)
+* [Оплата віртуального бюро](routine/virtual_buro)
