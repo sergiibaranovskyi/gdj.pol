@@ -1,6 +1,6 @@
 title: Оплата віртуального бюро
 
-Я використовую [regus](https://www.regus.com/en-us).
+Я використовую [regus](https://www.regus.com/en-us){:target="_blank"}
 ## Коли оплачувати
 
 На початку місяця

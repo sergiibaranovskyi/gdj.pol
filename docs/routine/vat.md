@@ -6,7 +6,7 @@ title: Декларація VAT
 
 ## Подача VAT декларації
 
-1. Заходимо на [microfirma](https://e-mikrofirma.mf.gov.pl/jpk-form/) від мінфіна
+1. Заходимо на [microfirma](https://e-mikrofirma.mf.gov.pl/jpk-form/){:target="_blank"} від мінфіна
 2. Вибираємо `JPK_V7M` (місячний звіт) і `1 - złożenie po raz pierwszy`
 <a>![alt select formular](../img/vat/select_formular.jpg) </a>
 3. Далі `URZĄD SKARBOWY KRAKÓW-ŚRÓDMIEŚCIE (1213)` і місяць
